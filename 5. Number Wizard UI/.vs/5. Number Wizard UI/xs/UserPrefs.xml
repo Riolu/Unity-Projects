@@ -1,7 +1,8 @@
 ﻿<Properties StartupConfiguration="{26AA1F19-D5DB-9073-F076-3A014CBDE63B}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SceneLoader.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/NumberWizard.cs">
     <Files>
-      <File FileName="Assets/Scripts/SceneLoader.cs" Line="14" Column="1" />
+      <File FileName="Assets/Scripts/SceneLoader.cs" Line="16" Column="35" />
+      <File FileName="Assets/Scripts/NumberWizard.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
